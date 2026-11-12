@@ -4,7 +4,6 @@ Uma aplicação web interativa desenvolvida em **Python** e **Streamlit**, alime
 
 [![Acessar Aplicação Online](https://img.shields.io/badge/🚀_Testar_App_Online-Streamlit-FF4B4B?style=for-the-badge)](https://sistema-triagem-gemini.streamlit.app)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
